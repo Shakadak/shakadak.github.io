@@ -9,6 +9,7 @@ About what ?
 ### About this blog
 
 I am a student at 42, a school in Paris, France that form to the title of architect in digital technologies.
+I started to learn computer programing on 2013-08-12.
 Here you've got some background about me. Not really helpful about knowing me, I know, but fear not. You will come to discover me through this blog anyway.  
 So let's get to know more about my blog, since this is the aim of this page.
 
